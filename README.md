@@ -1,3 +1,15 @@
+# I have added
+## Docking (in docking branch)
+
+A branch docking, that allow to use docking with ofxImGui.
+
+![Docking](images/docking.png)
+
+## A Knob Widget 
+Also in docking branch I think.
+
+![Docking](images/knob.png)
+
 # ofxImGui
 
 ofxAddon that allows you to use [ImGui](https://github.com/ocornut/imgui) in [openFrameworks](https://github.com/openframeworks/openFrameworks).
